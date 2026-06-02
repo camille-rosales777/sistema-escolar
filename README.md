@@ -6,8 +6,3 @@ integrantes:
 Descripcion:
 Repositorio inicial del proyecto escolar.
 
-Funcionalidades futuras:
--Registro de usuarios 
--control de asistencia
--inicio de sesion
--administracion de usuarios
